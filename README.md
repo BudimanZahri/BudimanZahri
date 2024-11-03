@@ -23,35 +23,34 @@ My skills include Python, JavaScript, TypeScript, C#, C, C++, NextJS, ReactJS, S
 ## Projects
 
 ### Wan Tai & Co (Pte) Ltd
-
-**Description:**  
-Wan Tai & Co (Pte) Ltd specializes in retailing sanitary wares and bathroom accessories directly to customers, as well as supplying these products to our business partners.
-
-**Technology Stack:**  
-Odoo, Python, JavaScript, PostgreSQL
-
-**Contributions:**  
-Developed an e-commerce platform for online product browsing and purchasing. Integrated the RedeemSG API for voucher and reward redemptions.
+- **Description:** Specializes in retailing sanitary wares and bathroom accessories to customers and business partners.
+- **Tech Stack:** Odoo, Python, JavaScript, PostgreSQL
+- **Contributions:** Developed an e-commerce platform with RedeemSG API integration for vouchers and rewards.
 
 ### PT Cosmic Petroleum Nusantara
-
-**Description:**  
-PT Cosmic Petroleum Nusantara is involved in the manufacturing of petroleum and coal products, including lubricating oils and greases.
-
-**Technology Stack:**  
-Odoo, Python, JavaScript, PostgreSQL, PHP
-
-**Contributions:**  
-Implemented features for contract management including contract creation and addendums with dynamic templates. Integrated the Digisign API for digital signing. Developed approval workflows for contracts and addendums, and added functionality for creating and editing customer records.
+- **Description:** Engaged in petroleum and coal product manufacturing, including lubricants and greases.
+- **Tech Stack:** Odoo, Python, JavaScript, PostgreSQL, PHP
+- **Contributions:** Implemented contract management with Digisign API for digital signatures, and created workflows for contract approval and customer record management.
 
 ### Metaline Industrial Pte Ltd
+- **Description:** Offers design-for-manufacturing services, tooling, and parts production, operating across China and Southeast Asia.
+- **Tech Stack:** Odoo, Python, XML, PostgreSQL
+- **Contributions:** Enhanced Odoo modules to improve sales, purchasing, and accounting workflows.
 
-**Description:**  
-Metaline Industrial Pte Ltd provides manufacturing services from design for manufacturing (DFM), tooling, and parts production to assembly and testing. The company operates in China and Southeast Asia.
+### Swiss Bakery
+- **Description:** Produces and distributes baked goods across multiple branches.
+- **Tech Stack:** Odoo, Python, JavaScript, PostgreSQL
+- **Contributions:** Implemented production and inventory tracking modules for optimized branch operations.
 
-**Technology Stack:**  
-Odoo, Python, XML, PostgreSQL
+### iConnexion Asia Pte. Ltd.
+- **Description:** Distributor and supplier of passive and electro-mechanical electronic components.
+- **Tech Stack:** Odoo, Woocommerce, Python, JavaScript, PostgreSQL
+- **Contributions:** Integrated ERP with Woocommerce for seamless online ordering and inventory synchronization.
 
+### Balzano Group Ltd
+- **Description:** Italian brand known for high-quality kitchen appliances and utensils, catering to both professional kitchens and home use.
+- **Tech Stack:** Odoo, Python, JavaScript, PostgreSQL
+- **Contributions:** Customized Odoo modules to support product management and distribution for global markets.
 **Contributions:**  
 Enhanced Odoo modules for sales, purchase, and accounting to streamline manufacturing operations and financial management.
 
