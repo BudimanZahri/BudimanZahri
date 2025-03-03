@@ -19,7 +19,7 @@ I am a Mechatronics Engineer with a background in mechatronics from polytechnic 
 ## Skills
 
 - **Programming Languages:** Python, JavaScript, TypeScript, C#, C, C++, IEC 61131-3 (Structured Text, Ladder Logic, Instruction List, Sequential Function Chart, Function Block Diagram).
-- **Frameworks & Libraries:** NextJS, ReactJS, Odoo, TensorFlow, NodeJS, Node-RED, shadcn/ui.
+- **Frameworks & Libraries:** NextJS, ReactJS, Odoo, TensorFlow, FastAPI, Flask, NodeJS, Node-RED, shadcn/ui.
 - **Tools & Platforms:** Arduino IDE, Raspberry Pi, Ubuntu, PLC, Embedded Systems.
 - **Databases:** PostgreSQL, MySQL, Firebase.
 - **Hardware:** PLC, Micro Controller (ESP, Arduino).
