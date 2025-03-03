@@ -108,5 +108,5 @@ Feel free to reach out to me via email if you have any questions or collaboratio
 
 I'm grateful for the Odoo community and the countless developers who contribute to open-source ERP solutions.
 
-![Top Langs](https://github-readme-stats-git-master-budimanzahris-projects.vercel.app/api/top-langs/?username=budimanzahri&hide_progress=true)
+![Top Langs](https://github-readme-stats-git-master-budimanzahris-projects.vercel.app/api/top-langs/?username=budimanzahri)
 ![Budiman Zahri's GitHub stats](https://github-readme-stats-git-master-budimanzahris-projects.vercel.app/api?username=budimanzahri&theme=light&show_icons=true)
