@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.yourwebsite.com">Website</a> • 
-  <a href="https://id.linkedin.com/in/budiman-zahri-850266210">LinkedIn</a> • 
-  <a href="mailto:budimanzahri@outlook.com">Email</a>
+  <a href="https://www.bmzsoftware.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://id.linkedin.com/in/budiman-zahri-850266210" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:budimanzahri@outlook.com">
+    <img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ## About Me
