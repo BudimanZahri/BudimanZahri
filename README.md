@@ -24,7 +24,7 @@ I am a Mechatronics Engineer with a background in mechatronics from polytechnic 
 
 ## Skills
 
-- **Accounting Skills:** Financial Statements, Journal Entries, Accounts Payable, Accounts Receivable, Tax Reporting (Singapore), Inventory Accounting & Valuation (FIFO, Average), Realized & Unrealized Gain/Loss, and solid understanding of IFRS & GAAP principles.
+- **Accounting Skills:** Financial Statements, Journal Entries, Accounts Payable, Accounts Receivable, Tax Reporting (Singapore), Inventory Accounting & Valuation (FIFO, LIFO, Average), Realized & Unrealized Gain/Loss, and solid understanding of IFRS & GAAP principles.
 - **Programming Languages:** Python, JavaScript, TypeScript, C#, C, C++, IEC 61131-3 (Structured Text, Ladder Logic, Instruction List, Sequential Function Chart, Function Block Diagram).
 - **Frameworks & Libraries:** NextJS, ReactJS, Odoo, TensorFlow, FastAPI, Flask, NodeJS, Node-RED, shadcn/ui.
 - **Tools & Platforms:** Arduino IDE, Raspberry Pi, Ubuntu, PLC, Embedded Systems.
