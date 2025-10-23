@@ -30,7 +30,7 @@ I am a Mechatronics Engineer with a background in mechatronics from polytechnic 
 - **Databases:** PostgreSQL, MySQL, Firebase.
 - **Hardware:** PLC, Micro Controller (ESP, Arduino).
 - **Industrial Automation Tools:** GX Works 2 and 3 (Mitsubishi), Machine Expert (Schneider), CX Programmer (Omron), Indusoft Web Studio.
-- **Languages:** English, Indonesian.
+- **Languages:** English, Bahasa Indonesia, 中文 (Chinese)
 - **Others:** IoT Systems, Restful API, SCADA, HMI, DCS.
 
 ## Projects
