@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Odoo Developer | Open-Source Enthusiast | Passionate about ERP Solutions</strong>
+  <strong>ERP Developer | Passionate about ERP Solutions | AMBASING</strong>
 </p>
 
 <p align="center">
