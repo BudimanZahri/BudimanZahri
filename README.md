@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Ambatukam owsit</strong>
+  <strong>Mechatronics Engineering</strong>
 </p>
 
 <p align="center">
